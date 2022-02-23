@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\football\football\bin\Debug\football.exe.config
+C:\Users\User\source\repos\football\football\bin\Debug\football.exe
+C:\Users\User\source\repos\football\football\bin\Debug\football.pdb
+C:\Users\User\source\repos\football\football\obj\Debug\football.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\football\football\obj\Debug\football.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\football\football\obj\Debug\football._4_4_2.resources
+C:\Users\User\source\repos\football\football\obj\Debug\football.duzlus.resources
+C:\Users\User\source\repos\football\football\obj\Debug\football.Properties.Resources.resources
+C:\Users\User\source\repos\football\football\obj\Debug\football.csproj.GenerateResource.cache
+C:\Users\User\source\repos\football\football\obj\Debug\football.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\football\football\obj\Debug\football.exe
+C:\Users\User\source\repos\football\football\obj\Debug\football.pdb
+C:\Users\User\source\repos\football\football\obj\Debug\football._3_4_3.resources
+C:\Users\User\source\repos\football\football\obj\Debug\football._4_3_1_2.resources
+C:\Users\User\source\repos\football\football\obj\Debug\football._5_3_2.resources
+C:\Users\User\source\repos\football\football\obj\Debug\football._4_3_3.resources
